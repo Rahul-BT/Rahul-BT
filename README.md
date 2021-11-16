@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rahul-BT
-- I’m interested in Technology, Movies and Anime
-- I’m currently learning Data Science, AI
+- I’m interested in ASIC, Digital electronics, Data Science and AI
+- My hobbies include sports, movies, anime
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
